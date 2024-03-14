@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">javaOperatorCalculator</string>
+    <string name="todo">TODO</string>
+    <string name="c">C</string>
+    <string name="b">b</string>
+    <string name="modulus">%</string>
+    <string name="RightShift"><![CDATA[>>]]></string>
+    <string name="Multiply">*</string>
+    <string name="_7">7</string>
+    <string name="_00">00</string>
+    <string name="addition">+</string>
+    <string name="leftShift"><![CDATA[<<]]></string>
+    <string name="ExcusiveOR">^</string>
+    <string name="Or">|</string>
+    <string name="division">/</string>
+    <string name="subtract">-</string>
+    <string name="Equal">=</string>
+    <string name="And"><![CDATA[&]]></string>
+</resources>
